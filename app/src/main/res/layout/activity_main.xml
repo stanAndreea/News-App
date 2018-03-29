@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_background"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="191dp"
+        android:src="@drawable/news_background_sup" />
+
+    <Spinner
+        android:id="@+id/spinner_view"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="131dp"
+        android:dropDownWidth="100dp"
+        android:scrollbarStyle="insideInset"
+        android:spinnerMode="dialog" />
+
+    <Button
+        android:id="@+id/button_ok"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="198dp"
+        android:background="@drawable/news_button" />
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="141dp"
+        android:layout_alignParentBottom="true"
+        android:foregroundGravity="bottom"
+        android:src="@drawable/news_background_inf" />
+</RelativeLayout>
