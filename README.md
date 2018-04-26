@@ -9,6 +9,6 @@ App queries the content.guardianapis.com api to fetch news stories related to th
 
 
 
-!https://drive.google.com/file/d/1vgtBX-0hrM53cpXI9XwcxVrEkKvihBGi/view(Stage1 : Main Window)!
+!https://drive.google.com/file/d/1vgtBX-0hrM53cpXI9XwcxVrEkKvihBGi/view (Stage1 : Main Window)!
 
-!https://drive.google.com/file/d/1kw50xJsH96U9g2lRE_6Zq3rSnp1OBnZl/view(Stage1 :  Second window, News display)!
+!https://drive.google.com/file/d/1kw50xJsH96U9g2lRE_6Zq3rSnp1OBnZl/view (Stage1 :  Second window, News display)!
