@@ -62,4 +62,7 @@ News App for Android Basics by Google Nanodegree Program
 ![screenshot_20180426_165211](https://user-images.githubusercontent.com/35422422/39312136-711f5696-4977-11e8-8596-10619da38561.png)
 ![screenshot_20180426_165221](https://user-images.githubusercontent.com/35422422/39312138-738836a0-4977-11e8-8ee9-bf77f3f379a4.png)
 
+**A short presentation of the application**
+
+https://www.youtube.com/watch?v=mKoHL3wfuYI
 
