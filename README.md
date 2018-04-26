@@ -1,14 +1,32 @@
 # News-App
 News App for Android Basics by Google Nanodegree Program
 
-App contains a main screen which displays multiple news stories
+*App contains a main screen which displays multiple news stories
 
-API Query
+*API Query
 
-App queries the content.guardianapis.com api to fetch news stories related to the topic chosen by the student, using either the ‘test’ api key or the student’s key.
+  App queries the content.guardianapis.com api to fetch news stories related to the topic chosen by the student, using either the ‘test’ api key or the student’s key.
+  
+*JSON Parsing
+
+  The JSON response is parsed correctly, and relevant information is stored in the app.
+  
+*Response Validation
+
+  The app checks whether the device is connected to the internet and responds appropriately. The result of the request is validated to account for a bad server response or lack of server response.
+
+*List Item Contents
+
+  Each list item on the main screen displays relevant text and information about the story.
+
+  The title of the article and the name of the section that it belongs to are required field.
+
+  If available, author name and date published should be included. Please note not all responses will contain these pieces of data, but it is required to include them if they are present.
 
 
-![screenshot_20180426-165101](https://user-images.githubusercontent.com/35422422/39311295-368c43ec-4975-11e8-82f7-84f6d0fad043.png)
 
+Stage1: Main window: 
+![screenshot_20180426_165101](https://user-images.githubusercontent.com/35422422/39311511-c963935a-4975-11e8-8012-59d0cc720852.png)
 
-!https://drive.google.com/file/d/1kw50xJsH96U9g2lRE_6Zq3rSnp1OBnZl/view (Stage1 :  Second window, News display)!
+Stage1 :  Second window, News display
+![screenshot_20180426_165115](https://user-images.githubusercontent.com/35422422/39311517-cc42507a-4975-11e8-850f-d60d8ad1df8c.png)
