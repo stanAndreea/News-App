@@ -57,6 +57,7 @@ News App for Android Basics by Google Nanodegree Program
 ![screenshot_20180426_165157](https://user-images.githubusercontent.com/35422422/39312066-37affe2e-4977-11e8-87d7-a7d97dc7d05f.png)
 
 **Stage2 : Preferences**
+
 ![screenshot_20180426_165204](https://user-images.githubusercontent.com/35422422/39312132-6ed50034-4977-11e8-9d70-71019e3b5e44.png)
 ![screenshot_20180426_165211](https://user-images.githubusercontent.com/35422422/39312136-711f5696-4977-11e8-8596-10619da38561.png)
 ![screenshot_20180426_165221](https://user-images.githubusercontent.com/35422422/39312138-738836a0-4977-11e8-8ee9-bf77f3f379a4.png)
