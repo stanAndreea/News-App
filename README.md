@@ -30,7 +30,7 @@ News App for Android Basics by Google Nanodegree Program
 
 
 
-**For Stage2: **
+**For Stage2:**
 
 **Preference Summary**
 
@@ -43,7 +43,7 @@ News App for Android Basics by Google Nanodegree Program
   In accordance with Material Design Guidelines, it should be reached via the "Settings" label. Do not use synonyms such as "Options" or "Preferences."
 
 
-**Stage1 : Main window: **
+**Stage1 : Main window:**
 
 ![screenshot_20180426_165101](https://user-images.githubusercontent.com/35422422/39311511-c963935a-4975-11e8-8012-59d0cc720852.png)
 
